@@ -1,0 +1,82 @@
+.app-container {
+  display: flex;
+}
+
+.content {
+  width: 100%;
+}
+
+.sidebar {
+  min-height: 750px;
+}
+
+.post-list {
+  margin: 30px;
+}
+
+.create-post {
+  margin: 50px;
+  width: 90%;
+}
+
+.hello {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  gap: 50px;
+}
+
+.input-box {
+  width: 30%;
+}
+
+.content-box {
+  width: 88%;
+}
+
+.hello2 {
+  display: flex;
+  gap: 40px;
+}
+.tags {
+  width: 70%;
+}
+.my-btn {
+  height: 50px;
+  width: 100px;
+  margin-top: 35px;
+}
+
+.post-card {
+  width: 80%;
+  margin: 50px;
+}
+.hastag {
+  margin: 0 3px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.reactions {
+  margin-top: 15px;
+  height: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.welcome-message {
+  text-align: center;
+  margin: 50px;
+}
+.fetch-btn {
+  text-align: center;
+}
+
+.like-dislike {
+  text-align: right;
+}
+
+.spinner {
+  margin: 300px;
+}

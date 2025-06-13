@@ -1,0 +1,17 @@
+.button-container {
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-left: 20px;
+}
+
+.button {
+  width: 65px;
+  height: 65px;
+  margin: 10px;
+  border-radius: 8px;
+  font-size: 25px;
+  font-weight: 700;
+}
